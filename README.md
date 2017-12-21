@@ -1,5 +1,9 @@
 ## Want Coffee? ☕
-This app takes coffee order and send it to coffee cafe via email. The purpose of this app is to learn layouts and intents, covered by Udacity.
+This app takes coffee order and inform coffee company. The purpose of this app is to learn layouts and intents, covered by Udacity.
+
+### Features
+- Take the order from user
+- Send the email to coffee company
 
 ### Author 🙏🏻
 **Web**: [Khawaja Farooq](http://khawajafarooq.github.io)
